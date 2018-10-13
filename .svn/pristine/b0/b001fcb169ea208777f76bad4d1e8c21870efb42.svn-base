@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>疗法介绍</title>
+
+  <!-- 新 Bootstrap 核心 CSS 文件 -->
+	<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+	<script src="http://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+
+	<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+	<script src="http://cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="css/reset.css" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+<div class="top">
+	<div class="wrap">
+	  <div class="wrapc">
+	    <div class="fl">您好，欢迎访问武警北京市总队第三医院</div>
+	    <div class="fr"><a href="#">在线导医</a>  |  <a href="#">咨询专家</a>  |  <a href="#">预约挂号</a>  |  <a href="#">就医指南</a> </div>
+	  </div>
+	</div>
+	<div class="log"><a href="#"><img src="img/logo.gif" /></a></div>
+</div>
+<div class="nav">
+	<div class="navc">
+		<ul>
+			<li><a href="#" class="nav_cur">网站首页</a></li>
+			<li><a href="#">医院简介</a></li>
+			<li><a href="#">医疗资讯</a></li>
+			<li><a href="#">权威专家</a></li>
+			<li><a href="#">特色诊疗</a></li>
+			<li><a href="#">典型案例</a></li>
+			<li><a href="#">联系我们</a></li>
+			<li><a href="#">预约挂号</a></li>
+			<li><a href="#">专家答疑</a></li>
+			<li><a href="#">医院风采</a></li>
+		</ul>
+	</div>
+</div>
+<div class="banner">
+	
+</div>
+<div class="subnav">
+	<div class="subnavc">
+		<ul class="subnavc_bz" id="sub_bz">
+			<li><a class="ico_xz ico0" href="#"></a><p><a href="#">脑梗塞</a></p></li>
+			<li><a class="ico_xz ico0" href="#"></a><p><a href="#">脑梗死</a></p></li>
+			<li><a class="ico_xz ico0" href="#"></a><p><a href="#">脑梗塞后遗症</a></p></li>
+			<li><a class="ico_xz ico0" href="#"></a><p><a href="#">脑血栓</a></p></li>
+			<li><a class="ico_xz ico0" href="#"></a><p><a href="#">脑血栓后遗症</a></p></li>
+			<li><a class="ico_xz ico0" href="#"></a><p><a href="#">颈动脉斑块</a></p></li>
+			<li><a class="ico_xz ico0" href="#"></a><p><a href="#">颈动脉狭窄</a></p></li>
+			<li><a class="ico_xz ico0" href="#"></a><p><a href="#">脑出血后遗症</a></p></li>
+			<li><a class="ico_xz ico0" href="#"></a><p><a href="#">脑供血不足</a></p></li>
+			<li><a class="ico_xz ico0" href="#"></a><p><a href="#">其他疾病</a></p></li>
+		</ul>
+	</div>
+</div>
+<div class="u m1">
+  <div class="main01">
+	<div class="m1tt clearfix">
+    	<p class="fl"><img src="img/ttimg01.jpg" /></p>
+    	<a class="btns fr" style="margin-top:10px;" href="#">脑血管疾病资深中医专家亲诊</a>
+    </div>
+    <div class="m1ct clearfix">
+    	<div class="m1box1 fl">
+    		<div class="m1b1cc">
+    			<p class="tt">正确诊断急性嗜酸性粒细胞白血病<span class="fr"><a href="#"><em class="glyphicon glyphicon-plus"></em> 不想阅读可以直接咨询专家>></a></span></p>
+    			<p class="m1pinfo">急性嗜酸性粒细胞白血病是白血病的一种，很多人对这种疾病不是很了解，以至于患病而不自知，等到病情严重时才发现患病，那时在治疗就会增加许多阻碍。了解了正确诊断急性嗜酸性粒细胞白血病，在患病时经过诊断，就能够判断出患的是哪种疾病，以便能及时的治......[阅读全文]</p>
+    		</div>
+    		<div class="m1b2cc clearfix">
+    			<h2>患者关注阅读<span class="fr">推荐疗法：五联养血融栓疗法</span></h2>
+    			<div class="clearfix m1b2c1">
+    			<p class="fl"><img src="img/m1pic01.jpg" /></p>
+    			<dl class="fl">
+    				<dt>病因病理</dt>
+    				<dd><a href="#">白血病有什么症状</a></dd>
+    				<dd><a href="#">白血病的又一杀手------染发</a></dd>
+    				<dd><a href="#">儿童白血病的“源头”</a></dd>
+    				<dd><a href="#">专家详细解答诱发白血病的病因</a></dd>
+    			</dl>
+    			<dl class="fl">
+    				<dt>症状危害</dt>
+    				<dd><a href="#">白血病有什么症状</a></dd>
+    				<dd><a href="#">白血病的又一杀手------染发</a></dd>
+    				<dd><a href="#">儿童白血病的“源头”</a></dd>
+    				<dd><a href="#">专家详细解答诱发白血病的病因</a></dd>
+    			</dl>
+    			</div>
+    			<div class="clearfix m1b2c1">
+    			<p class="fl"><img src="img/m1pic02.jpg" /></p>
+    			<dl class="fl">
+    				<dt>检查化验</dt>
+    				<dd><a href="#">白血病有什么症状</a></dd>
+    				<dd><a href="#">白血病的又一杀手------染发</a></dd>
+    				<dd><a href="#">儿童白血病的“源头”</a></dd>
+    				<dd><a href="#">专家详细解答诱发白血病的病因</a></dd>
+    			</dl>
+    			<dl class="fl">
+    				<dt>诊断治疗</dt>
+    				<dd><a href="#">白血病有什么症状</a></dd>
+    				<dd><a href="#">白血病的又一杀手------染发</a></dd>
+    				<dd><a href="#">儿童白血病的“源头”</a></dd>
+    				<dd><a href="#">专家详细解答诱发白血病的病因</a></dd>
+    			</dl>
+    			</div>
+    		</div>
+    	</div>
+    	<div class="m1box2 fr">
+			<p class="m1box2p"><img src="img/lefttel.gif" alt="" /></p>
+			<p class="m1b2list" id="m1b2list">
+				<a href="#" class="fl lista lista1">&nbsp;</a>
+				<a href="#" class="fr lista lista2">&nbsp;</a>
+				<a href="#" class="fl lista lista3">&nbsp;</a>
+				<a href="#" class="fr lista lista4">&nbsp;</a>
+				<a href="#" class="fl lista lista5">&nbsp;</a>
+				<a href="#" class="fr lista lista6">&nbsp;</a>
+			</p>
+    	</div>
+    </div>
+  </div>
+</div>
+<div class="ad01">
+	
+</div>
+<div class="u m2">
+	<div class="main02">
+	<div class="m2tt clearfix">
+    	<p class="fl"><img src="img/ttimg02.jpg" /></p>
+    	<a class="btns fr" style="margin-top:10px;" href="#">查看专家组详细资料</a>
+    </div>
+    <div class="m2cc clearfix">
+    	<div class="m2c01 fl"><img src="img/zj_b.jpg" /></div>
+    	<div class="m2c02 fr"><img src="img/m2hy.jpg" /><a href="#"><img src="img/m2btn.jpg" style="margin-top:15px;" /></a></div>
+    </div>
+	</div>
+</div>
+<div class="u">
+<!--main03疗法-->
+  <div class="main03">
+    <!--title-->
+  	<div class="m3tt clearfix">
+    	<p class="fl"><img src="img/ttimg.jpg" width="575" height="48" /></p>
+    	<a class="btns fr" href="#">点击咨询，问专家治疗方案</a>
+    </div>
+    <!--content-->
+  	<div class="m3cc clearfix">
+     <div class="mtab fl" id="mtab">
+       <ul>
+         <li><a href="#" class="ta1">五联原理介绍</a></li>
+         <li><a href="#" class="ta2">五联——五脏联合</a></li>
+         <li><a href="#" class="ta3">养血——濡养气血</a></li>
+         <li><a href="#" class="ta4">溶栓——抑制凝聚</a></li>
+         <li><a href="#" class="ta5">特色诊疗双手把脉</a></li>
+       </ul>
+     </div>
+     <div class="mcontext fl" id="mctx">
+	   <div class="ctrl_l" id="c_l"></div>
+       <div class="ctrl_r" id="c_r"></div>
+		<div style="margin-left:50px;position:relative; height:376px;width:630px;overflow:hidden;">
+		 <ul style="position:absolute;" id="adc">
+		   <li class="m3cct">
+			<div>
+				<h2>五联养血融栓疗法——原理介绍</h2>
+				<p class="m3c1p1 clearfix"><i>选择理由</i><span>运用双手把脉，精准确诊，有效恢复脑血管功能，全面提升机体抗病能力</span></p>
+				<p class="m3c1p2">脑血管诸证病位虽然在头部，实与肺、肝、脾、肾以及心脏密切相关。现代医学研究也证实，大脑的正常生理活动不仅需要大脑脑血管的自身健康，还需要人体肺、肝、脾、肾及心脏等五大脏腑联合协同作用…<a href="#">阅读全文</a></p>
+				<p class="m3c1p3"><i>全面消除动脉粥样硬化  有效改善脑缺血</i><a href="#"><em class="glyphicon glyphicon-plus"></em>点击咨询专家，了解此治疗方法是否适用</a></p>
+				<p class="m3c1img1"><img src="img/img01.jpg" /></p>
+			</div>
+		   </li>
+		   <li class="m3cct">
+		   	<div>
+				<h2>五联养血融栓疗法——五联：五脏联合 全面调理</h2>
+				<p class="m3c1p1 clearfix"><i>选择理由</i><span>运用双手把脉，精准确诊，有效恢复脑血管功能，全面提升机体抗病能力</span></p>
+				<p class="m3c1p2">       气血功能恢复后，方剂所含药物再次释放活性因子，快速抑制血小板聚集，具有抗凝、抗血栓形成等功能，从而使已经堵塞的血管再次打通，使大脑重新得到新鲜血液，恢复供血。同时利用人体细胞特性…<a href="#">阅读全文</a></p>
+				<p class="m3c1img2"><img src="img/img02.jpg" /></p>
+				<p class="m3c1p4"><a href="#"><em class="glyphicon glyphicon-plus"></em>点击咨询专家，了解此治疗方法是否适用</a></p>
+			</div>
+		   </li>
+		   <li class="m3cct">
+			   <div>
+					<h2>五联养血融栓疗法——养血：濡养气血，降低风险</h2>
+					<p class="m3c1p1 clearfix"><i>选择理由</i><span>运用双手把脉，精准确诊，有效恢复脑血管功能，全面提升机体抗病能力</span></p>
+					<p class="m3c1p2">       气血功能恢复后，方剂所含药物再次释放活性因子，快速抑制血小板聚集，具有抗凝、抗血栓形成等功能，从而使已经堵塞的血管再次打通，使大脑重新得到新鲜血液，恢复供血。同时利用人体细胞特性…<a href="#">阅读全文</a></p>
+					<p class="m3c1img2" style='margin-top:20px'><img src="img/img03.jpg" /></p>
+					<p class="m3c1p4" style='margin-top:44px'><a href="#"><em class="glyphicon glyphicon-plus"></em>点击咨询专家，了解此治疗方法是否适用</a></p>
+				</div>
+		   </li>
+		   <li class="m3cct">
+		   		<div>
+					<h2>五联养血融栓疗法——溶栓：抑制凝聚，恢复供血</h2>
+					<p class="m3c1p1 clearfix"><i>选择理由</i><span>运用双手把脉，精准确诊，有效恢复脑血管功能，全面提升机体抗病能力</span></p>
+					<p class="m3c1p2">       气血功能恢复后，方剂所含药物再次释放活性因子，快速抑制血小板聚集，具有抗凝、抗血栓形成等功能，从而使已经堵塞的血管再次打通，使大脑重新得到新鲜血液，恢复供血。同时利用人体细胞特性…<a href="#">阅读全文</a></p>
+					<p class="m3c1img2"><img src="img/img04.jpg" /></p>
+					<p class="m3c1p4" style='margin-top:0'><a href="#" style='margin-top:0'><em class="glyphicon glyphicon-plus"></em>点击咨询专家，了解此治疗方法是否适用</a></p>
+				</div>
+		   </li>
+		   <li class="m3cct">
+				<div>
+					<h2>五联养血融栓疗法——独特“双手把脉”</h2>
+					<p class="m3c1p1 clearfix"><i>选择理由</i><span>运用双手把脉，精准确诊，有效恢复脑血管功能，全面提升机体抗病能力</span></p>
+					<p class="m3c1p2">        脉象与人体心气盛衰、气血运行密切相关。医者通过按压患者的动脉辨别脉搏的速率、节奏、强度、位置和形态等脉象，了解患者体内正邪变化和脏腑功能强弱。双手号脉即用右手的食、中、无名指诊患者的左寸…<a href="#">阅读全文</a></p>
+					<p class="m3c1img2"><a href="#"><img src="img/img05.jpg" /></a></p>
+					
+				</div>
+			</li>
+		  </ul>
+		</div>
+		
+
+     </div> 
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src="js/index.js"></script>
+</body>
+</html>

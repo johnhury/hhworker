@@ -1,0 +1,75 @@
+*,body,html,p,h1,h2,h3,h4,h5{padding:0;margin:0;font-family: "微软雅黑";font-size: 14px;}
+ul,li,ol,dd,dl,dt{padding: 0;margin:0;list-style: none;}
+a{text-decoration: none;}
+img{border:none;}
+#u {width: 998px;border:1px solid #e0e0e0;margin:0 auto;}
+.clearfix:after {
+  content: " ";
+  display: block;
+  clear: both;
+  height: 0;
+}
+.clearfix {
+  zoom: 1;
+}
+.fl {float:left;}
+.fr {float:right;}
+/*top*/
+.wrap{height:27px;width:100%;border-bottom:1px solid #e6e6e6;}
+.wrapc{width:1000px;margin:0 auto;line-height:27px;color:#888;}
+.log{padding:14px 0;width:1000px;margin:0 auto;}
+/*nav*/
+.nav{height:52px;widht:100%;background-color:#02b2a8;}
+.navc{width:1000px;margin:0 auto;line-height:52px;}
+.navc li{float:left;width:100px;text-align:center;}
+.navc li a{font-family:"宋体";font-weight:bold;color:#fff;display:block;}
+.nav_cur,.navc li a:hover {background-color:#f90;}
+/*banner*/
+.banner{height:495px;background-color:#ccc;}
+/*subnav*/
+.subnav {width:100%;height:145px;background-color:#eee;}
+.subnavc{width:1000px;margin:0 auto;}
+.subnavc_bz li{float:left;width:100px;text-align:center;}
+.ico0{background-image:url(img/bzicon.gif);background-repeat:no-repeat;width:67px;height:67px;margin:0 auto;display:block;margin:14px auto;}
+.ico_xz{transform:rotate(0deg);}
+.ico_xz:hover{transform:rotate(180deg);}
+.main03 {padding:14px 14px 22px 14px;}
+.m1tt{border-bottom:1px solid #e0e0e0;padding-bottom:14px;}
+.btn {background:#95cac7;display:block;width:210px;height:25px;text-align:center;color:#fff;font:14px/25px "微软雅黑";margin-top:22px;text-decoration:none;}
+/**m1cc**/
+.m1cc {margin-top: 20px;width:100%;}
+/*--tab--*/
+.mtab {background: url(img/tabbg.jpg) repeat-y left top;}
+.mtab ul li{text-indent: 66px;text-align: left;line-height: 75px;}
+.mtab ul li:hover {background: url(img/tabbgh.gif) no-repeat left top;}
+.mtab ul li a{color: #fff;display: block;height: 75px;width:236px;}
+.mtab ul li a:hover{color: #000;}
+.ta1{background: url(img/ta0.gif) no-repeat 20px;}
+.ta2{background: url(img/ta1.gif) no-repeat 20px;}
+.ta3{background: url(img/ta2.gif) no-repeat 20px;}
+.ta4{background: url(img/ta3.gif) no-repeat 20px;}
+.ta5{background: url(img/ta4.gif) no-repeat 20px;}
+.mtab .curtab{background: url(img/tabbgh.gif) no-repeat;}
+
+/*content*/
+.mcontext {float: left;width: 730px;position: relative;}
+.m1cct{float:left;  width:630px; height:376px;overflow:hidden;}
+.show {display: block;}
+.m1cct h2{font:24px/46px "å¾®è½¯é›…é»‘";color:#000;text-align:center;}
+.m1c1p1 {height:28px;}
+.m1c1p1 i{height:28px;width:80px;display:block;float:left;font: bold 14px/28px normal;border:1px solid #ea5616;background:#ea5616;color:#fff;text-align:center;}
+.m1c1p1 span{height:28px;width:540px;display:block;float:left;font: 14px/28px normal;border:1px solid #ebebeb;border-left:none;background:#fff;color:#444444;text-align:left;text-indent:1.5em;background:url(img/ar.gif) no-repeat left center;}
+.m1c1p2 {clear:both;font-size:12px;color:#888;line-height:28px;width:624px;margin:15px 0;text-indent:2em;}
+.m1c1p2 a{color:red;}
+
+.m1c1p3 {background:#efefef;height:38px;line-height:38px;width:626px;}
+.m1c1p3 i{font-style:normal;width:296px;height:38px;display:block;float:left;text-align:center;}
+.m1c1p3 a{color:#fff;font-style:normal;width:330px;height:38px;display:block;background:#02b2a8;float:left;text-align:center;position:relative;}
+.m1c1p3 a em{background:#fff;line-height:12px;height:12px;width:12px;font-size:12px;display:block;position:absolute;font-style:normal;color:#02b2a8;left: 18px;top: 13px;}
+.m1c1img1 {clear:both;margin-top:28px;}
+.m1c1p4 {text-align:center;}
+.m1c1p4 a{margin:14px auto 0;line-height:38px;color:#fff;font-style:normal;width:330px;height:38px;display:block;background:#ff9900;text-align:center;position:relative;border-radius:2px;}
+.m1c1p4 a em{background:#fff;line-height:12px;height:12px;width:12px;font-size:12px;display:block;position:absolute;font-style:normal;color:#ff9900;left: 18px;top: 13px;}
+/*arrow*/
+.ctrl_l{position: absolute;left:0;height: 376px;background:url(img/arrow_l.gif) no-repeat center center;width:50px; cursor: pointer;}
+.ctrl_r{position: absolute;right:0;height: 376px;background:url(img/arrow_r.gif) no-repeat center center;width:50px; cursor: pointer;}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		.d{width:200px;height: 200px;border:5px solid #000;background-color: #f00;padding:20px;}
+		.p{width: 100px;height: 100px;background-color: #0f0;}
+	</style>
+</head>
+<body>
+	<div id="d" class="d">hello world DIV tag
+	<p id="p" class="p">my Name is johnhery~ P tag</p></div>
+</body>
+<script>
+
+	var d = document.getElementById("d"); 
+	var p = document.getElementById("p"); 
+	d.onmouseover=function (e) {
+
+		console.log("div was on hovered!");
+	};
+	p.onmouseover=function (e) {
+		window.event?(window.event.cancelBubble=true):e.stopPropagation();
+		console.log("p was on hovered!");
+	};
+</script>
+</html>

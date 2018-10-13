@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="reset.css" />
+	<style>
+	 .box{height: 100px;width: 100px;background-color: #f00;position: absolute;left: 0px;}
+	</style>
+</head>
+<body>
+<input type="button" id="btn" value="开始运动">
+<div id="oDiv" class="box"></div>
+	<script>
+	  var d = document;
+	  var btn = d.getElementById("btn");
+  	  var box = d.getElementById("oDiv");
+	  var ispeed ;
+	  var timer = null;
+ 	  btn.addEventListener("mouseover",
+	  	function(){
+	  		moveto(203);
+	  	});
+	  btn.addEventListener("mouseout",
+	  	function(){
+	  		moveto(10);
+	  	});
+	 
+
+	  function moveto (dis) {
+
+	  	var bleft = box.offsetLeft;
+	  	clearInterval(timer);
+
+	  	timer=setInterval(function(){
+
+	  		ispeed=Math.ceil((dis-box.offsetLeft)/8);
+	  			if(box.offsetLeft+dis%ispeed===dis){
+	  				clearInterval(timer);
+	  			}else{
+	  			box.style.left=box.offsetLeft+ispeed+"px";}
+
+	  		
+	  	},33);
+	  }
+	</script>
+</body>
+</html>
